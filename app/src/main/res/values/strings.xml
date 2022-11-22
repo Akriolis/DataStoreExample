@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataStoreExample</string>
+    <string name="enter_key">Enter key..</string>
+    <string name="enter_value">Enter value..</string>
+    <string name="save_value">Save value!</string>
+    <string name="read_value">Read value!</string>
+    <string name="save_pair">You saved key/value pair</string>
+    <string name="received_value">Received value - %s</string>
+</resources>
